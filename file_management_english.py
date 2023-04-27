@@ -1,6 +1,6 @@
 ########################################################################################################################
 ##                                                                                                                    ##
-##                          Ultimate Python File Management CheatSheet. - Learn basics of Tkinter.                    ##
+##                       Ultimate Python File Management CheatSheet. - Learn basics of File Management.               ##
 ##                                                                                                                    ##
 ##                         I recommend you to use "Better Comments" extension for better experience.                  ##
 ##                                                                                                                    ##
